@@ -1,0 +1,22 @@
+{
+  "name": "evildevru/php-sms",
+  "description": "Simple client for send sms messages.",
+  "version": "0.1.0",
+  "type": "extension",
+  "license": "MIT",
+  "require": {
+    "php": "~8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "authors": [
+    {
+      "name": "Dmitriy Yurchenko",
+      "email": "evildev@evildev.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "EvilDevRu\\PhpSms\\": "src"
+    }
+  }
+}
