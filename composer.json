@@ -1,7 +1,6 @@
 {
   "name": "evildevru/php-sms",
   "description": "Simple client for send sms messages.",
-  "version": "1.0.0",
   "type": "extension",
   "license": "MIT",
   "require": {
